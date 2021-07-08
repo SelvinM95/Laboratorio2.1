@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+              xmlns:controls="clr-namespace:SignaturePad.Forms;assembly=SignaturePad.Forms"
+             x:Class="LaboratorioFirma.MainPage">
+
+    <StackLayout Padding="20,20,20,20">
+        <Label Text="Nombre Completo"/>
+        <Entry Text="" x:Name="nombre"/>
+
+        <Label Text="Descripción"/>
+        <Entry Text="" x:Name="descrip"/>
+
+
+        <controls:SignaturePadView x:Name= "signatureSample"
+                             StrokeColor      = "Black"
+                             StrokeWidth      = "4"
+                             CaptionText      = "Firma"
+                             CaptionTextColor = "Black"
+                             CaptionFontSize  = "14" 
+                             HeightRequest="250"
+                             BackgroundColor  = "#CEE3F6" 
+                           />
+
+        <Button Text="Guardar" x:Name="guardarDatos" Clicked="guardarDatos_Clicked"  Margin="0,60,0,0"/>
+        <Button Text="Ver Lista" x:Name="verLista" Clicked="verLista_Clicked"  />
+
+
+    </StackLayout>
+
+</ContentPage>

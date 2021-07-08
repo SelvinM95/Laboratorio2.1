@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="LaboratorioFirma.DetallesDatos">
+    <ContentPage.Content>
+        <StackLayout Padding="20,20,20,200">
+            
+            <Label Text="Nombre Completo"/>
+            <Entry Text="{Binding nombre}" x:Name="nombre" IsEnabled="False"/>
+
+            <Label Text="Descripción"/>
+            <Entry Text="{Binding descripcion}" x:Name="descrip" IsEnabled="False"/>
+
+            <Image x:Name="foto" Source="{Binding image}" HorizontalOptions="FillAndExpand" VerticalOptions="FillAndExpand"/>  
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

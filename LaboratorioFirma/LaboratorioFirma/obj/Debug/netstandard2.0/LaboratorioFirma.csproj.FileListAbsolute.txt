@@ -1,0 +1,16 @@
+C:\Users\SelvinM95\source\repos\LaboratorioFirma\LaboratorioFirma\LaboratorioFirma\bin\Debug\netstandard2.0\LaboratorioFirma.deps.json
+C:\Users\SelvinM95\source\repos\LaboratorioFirma\LaboratorioFirma\LaboratorioFirma\bin\Debug\netstandard2.0\LaboratorioFirma.dll
+C:\Users\SelvinM95\source\repos\LaboratorioFirma\LaboratorioFirma\LaboratorioFirma\bin\Debug\netstandard2.0\ref\LaboratorioFirma.dll
+C:\Users\SelvinM95\source\repos\LaboratorioFirma\LaboratorioFirma\LaboratorioFirma\bin\Debug\netstandard2.0\LaboratorioFirma.pdb
+C:\Users\SelvinM95\source\repos\LaboratorioFirma\LaboratorioFirma\LaboratorioFirma\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\SelvinM95\source\repos\LaboratorioFirma\LaboratorioFirma\LaboratorioFirma\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\SelvinM95\source\repos\LaboratorioFirma\LaboratorioFirma\LaboratorioFirma\obj\Debug\netstandard2.0\LaboratorioFirma.AssemblyInfoInputs.cache
+C:\Users\SelvinM95\source\repos\LaboratorioFirma\LaboratorioFirma\LaboratorioFirma\obj\Debug\netstandard2.0\LaboratorioFirma.AssemblyInfo.cs
+C:\Users\SelvinM95\source\repos\LaboratorioFirma\LaboratorioFirma\LaboratorioFirma\obj\Debug\netstandard2.0\LaboratorioFirma.csproj.CoreCompileInputs.cache
+C:\Users\SelvinM95\source\repos\LaboratorioFirma\LaboratorioFirma\LaboratorioFirma\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\SelvinM95\source\repos\LaboratorioFirma\LaboratorioFirma\LaboratorioFirma\obj\Debug\netstandard2.0\LaboratorioFirma.dll
+C:\Users\SelvinM95\source\repos\LaboratorioFirma\LaboratorioFirma\LaboratorioFirma\obj\Debug\netstandard2.0\ref\LaboratorioFirma.dll
+C:\Users\SelvinM95\source\repos\LaboratorioFirma\LaboratorioFirma\LaboratorioFirma\obj\Debug\netstandard2.0\LaboratorioFirma.pdb
+C:\Users\SelvinM95\source\repos\LaboratorioFirma\LaboratorioFirma\LaboratorioFirma\obj\Debug\netstandard2.0\LaboratorioFirma.csproj.AssemblyReference.cache
+C:\Users\SelvinM95\source\repos\LaboratorioFirma\LaboratorioFirma\LaboratorioFirma\obj\Debug\netstandard2.0\DetallesDatos.xaml.g.cs
+C:\Users\SelvinM95\source\repos\LaboratorioFirma\LaboratorioFirma\LaboratorioFirma\obj\Debug\netstandard2.0\ListaDatos.xaml.g.cs
